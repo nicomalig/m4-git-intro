@@ -107,6 +107,4 @@ Using git and GitHub can be challenging, and you'll inevitably run into issues. 
 
 To practice using these basic commands, see [exercise-1](exercise-1).
 
-1. Shrimp Fried Rice
-2. Shrimp and Pork Dumplings
-3. Mustard Greens
+
